@@ -1,0 +1,45 @@
+Si quieres aprender hacking ético y automatización desde cero, Bash Scripts es el punto de partida ideal. ¿Por qué? Porque Bash te enseña a controlar tu sistema operativo, ejecutar tareas automáticamente y manipular archivos sin necesidad de interfaces complicadas. Es como aprender a hablar directamente con tu computadora.
+
+Con Bash, puedes:
+
+Automatizar procesos repetitivos y ahorrar tiempo.
+
+Administrar sistemas Linux y Windows de manera eficiente.
+
+Prepararte para aprender Python, exploits, y hacking avanzado, porque muchos scripts y herramientas de seguridad están  automatizadas con Bash.
+
+Entender cómo funcionan las terminales y los comandos, es algo fundamental para cualquier hacker ético.
+
+Aprender Bash es como aprender las bases de un idioma antes de escribir novelas complejas. Es rápido de aprender, muy visual y te da resultados inmediatos, lo que mantiene la motivación alta.
+
+¿Qué se necesita para realizar el curso?
+
+Un intérprete de comandos para practicar.
+
+
+Opciones recomendadas:
+
+‣ Máquina Virtual: Utilizando un programa de virtualización podemos simular
+tantos ordenadores (máquinas virtuales) como queramos. Los principales son
+VirtualBox y VMware. Esta es la opción más recomendable
+
+
+‣ Instalación real: Linux está instalado en una partición real del disco duro y
+utiliza un PC real para funcionar.
+
+
+Otras opciones:
+
+‣ Sistemas remotos: Puedes utilizar un sistema operativo que esté instalado de
+forma remota al que accedas a través de internet. Pueden ser opciones como
+AWS (Amazon), Google Cloud, VPS o servidores privados. Esta es la opción
+menos recomendable para empezar porque es más complicada y suele llevar
+un costo añadido.
+
+‣ Como aplicación en windows: Usando la tienda de aplicaciones de windows
+10 se pueden tener intérpretes de varias distribuciones. Puede servir para
+practicar la mayoría del contenido del curso, pero algunos directorios,
+ficheros o comandos pueden no estar o ser distintos a los de un sistema
+operativo completo.
+
+
